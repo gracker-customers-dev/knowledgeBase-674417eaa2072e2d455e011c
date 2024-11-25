@@ -1,0 +1,55 @@
+projectName: Cybersecurity Insights
+jsonFilePath: ./input.json
+baseUrl: https://guptadeepak.com
+portalHeading: Welcome to Cybersecurity Insights
+portalDescription: >-
+  Explore the latest trends and insights in cybersecurity, from hashing
+  algorithms to modern threats.
+portalTitle: Cybersecurity Insights and Innovations
+searchPlaceholder: Search for articles, insights, and guides...
+useAlphabetsCategory: true
+homeLink: https://guptadeepak.com/
+logoLink: https://guptadeepak.com/
+ctaText: Get Started
+aboutLink: https://guptadeepak.com/about
+productsLink: https://guptadeepak.com/products
+logoImgUrl: https://guptadeepak.com/logo.png
+ctaLink: https://guptadeepak.com/get-started
+copyrightText: © 2023 Cybersecurity Insights. All rights reserved.
+faviconUrl: https://guptadeepak.com/favicon.ico
+googleTagManagerId: GTM-XXXXXX
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: Twitter
+    url: https://twitter.com/guptadeepak
+  - platform: LinkedIn
+    url: https://linkedin.com/in/guptadeepak
+theme:
+  primaryColor: '#007acc'
+  secondaryColor: '#ffcc00'
+  backgroundColor: '#ffffff'
+  textColor: '#333333'
+  accentColor: '#ff5722'
+fonts:
+  - family: Roboto
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Open Sans
+    weights:
+      - 500
+      - 600
+      - 700
